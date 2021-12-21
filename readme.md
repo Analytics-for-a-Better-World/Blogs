@@ -17,6 +17,9 @@
 
 - **Reference format** - [X] N. Name, Title (Year), Source - For example, your first reference should look like this: [1] A. Pesah, A. Wehenkel and G. Louppe, Recurrent Machines for Likelihood-Free Inference (2018), NeurIPS 2018 Workshop on Meta-Learning
 
-- **Images** - Please make sure to use only images that can be used in the public domain with licenses that do not expire or is allowed for business uses. The images should include a caption - "Image via (provider's name) under licence to (author/licensee name)". If the image is created by yourself, "Image by author" have to be added. Cite the source of images even when the licence do not require it to ensure the owner is recognised. The figure caption should also include the number - for example - Figure 1. (Figure Title). (Source)
+- **Images** - Please make sure to use only images that can be used in the public domain with licenses that do not expire or is allowed for business uses. The images should include a caption - "Image via (provider's name) under licence to (author/licensee name)". If the image is created by yourself, "Image by author" have to be added. Cite the source of images even when the licence do not require it to ensure the owner is recognised. The figure caption should also include the number - for example - Figure 1. (Figure Title). (Source) - Refer the image below for inspiration
+
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/42402451/146925086-29f50b98-a40c-4f5f-a776-aa8b6e3a76f9.png">
+(Who Does Smartphone Location Data Represent?)[https://towardsdatascience.com/small-districts-big-data-who-does-geo-referenced-mobility-data-represent-78212ca004f6]
 
 

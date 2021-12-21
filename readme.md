@@ -1,8 +1,8 @@
-## Publications -> Blogs
+## Blogs
 
 **This repository will include the notebooks and code regarding the Blogs published regarding the DT4PAG and Vietnam Big Data Observatory projects**
 
-### Published Blogs
+### List of all Published Blogs
 - [COVID-19 Impacts on Air Travel: A Vietnam Perspective](https://medium.com/covid-19bigdataobservatory/covid-19-impacts-on-air-travel-a-vietnam-perspective-56f566d5a4c0) - June 07, 2020 - Medium
 - [COVID-19 Observatory — Opportunities and Challenges](https://medium.com/covid-19bigdataobservatory/covid-19-observatory-opportunities-and-challenges-8af0ef49ec52) - June 10, 2020
 - [Beating COVID-19: Policy Stringency Trajectory Peers](https://medium.com/covid-19bigdataobservatory/beating-covid-19-policy-stringency-trajectory-peers-f10768349ac1) - June 25, 2020 - Medium
@@ -14,4 +14,7 @@
 ### Best Practices & Guidelines for Technical Blogs
 
 - **Embedding code**- Publications such as medium offers [different options](https://medium.com/@aryamurali/embed-code-in-medium-e95b839cfdda) to embed code but some of them do not have capability to have syntax highlighting, or require sigining up in external platforms to be able to embed code. Considering this, for our publication it is recommended to embed code using Github Gists.
+
 - **Reference format** - [X] N. Name, Title (Year), Source - For example, your first reference should look like this: [1] A. Pesah, A. Wehenkel and G. Louppe, Recurrent Machines for Likelihood-Free Inference (2018), NeurIPS 2018 Workshop on Meta-Learning
+
+- **Images** - Please make sure to use only images that can be used in the public domain with licenses that do not expire or is allowed for business uses. The images should include a caption - "Image via (provider's name) under licence to (author/licensee name)". If the image is created by yourself, "Image by author" have to be added. Cite the source of images even when the licence do not require it to ensure the owner is recognised.

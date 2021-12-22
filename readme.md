@@ -13,7 +13,7 @@
 
 ### Best Practices & Guidelines for Technical Blogs
 
-- **Embedding code**- Publications such as medium offers [different options](https://medium.com/@aryamurali/embed-code-in-medium-e95b839cfdda) to embed code but some of them do not have capability to have syntax highlighting, or require sigining up in external platforms to be able to embed code. Considering this, for our publication it is recommended to embed code using Github Gists.
+- **Embedding code**- Publications such as medium offers [different options](https://medium.com/@aryamurali/embed-code-in-medium-e95b839cfdda) to embed code but some of them do not have capability to have syntax highlighting, or require sigining up in external platforms to be able to embed code. Considering this, for our publication it is recommended to embed code using Github Gists. Do not add numbering for Github Gists.
 
 - **Reference format** - [X] N. Name, Title (Year), Source - For example, your first reference should look like this: [1] A. Pesah, A. Wehenkel and G. Louppe, Recurrent Machines for Likelihood-Free Inference (2018), NeurIPS 2018 Workshop on Meta-Learning
 

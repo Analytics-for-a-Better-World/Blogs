@@ -1,6 +1,6 @@
 ## Blogs
 
-***This repository will include the notebooks and code for the Blogs published under the DT4PAG and Vietnam Big Data Observatory projects**
+**This repository will include the notebooks and code for the Blogs published under the DT4PAG and Vietnam Big Data Observatory projects**
 
 ### List of all Published Blogs
 - [COVID-19 Impacts on Air Travel: A Vietnam Perspective](https://medium.com/covid-19bigdataobservatory/covid-19-impacts-on-air-travel-a-vietnam-perspective-56f566d5a4c0) - June 07, 2020 - Medium

@@ -11,6 +11,7 @@
 - [Visualising Global Population Datasets with Python](https://towardsdatascience.com/visualising-global-population-datasets-with-python-c87bcfc8c6a6) - November 16, 2021 - Medium
 - [Digital Platform Innovations for Development Impacts](https://python.plainenglish.io/digital-platform-innovations-for-development-impacts-aad457d588b1) - December 06, 2021 - Medium
 - [Local climate analytics: Health Facility Rain Exposure in Vietnam](https://medium.com/towards-data-science/local-climate-analytics-health-facility-rain-exposure-in-vietnam-6f7a40442e83) - February 11, 2022 - Medium
+- [Comparison of Geocoding Services Applied to Stroke-Care Facilities in Vietnam with Python](https://towardsdatascience.com/comparison-of-geocoding-services-applied-to-stroke-care-facilities-in-vietnam-with-python-ff0ba753a590) - March 08, 2022 - Medium
 
 ### Best Practices & Guidelines for Technical Blogs
 

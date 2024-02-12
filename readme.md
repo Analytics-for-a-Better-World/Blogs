@@ -12,6 +12,8 @@
 - [Digital Platform Innovations for Development Impacts](https://python.plainenglish.io/digital-platform-innovations-for-development-impacts-aad457d588b1) - December 06, 2021 - Medium
 - [Local climate analytics: Health Facility Rain Exposure in Vietnam](https://medium.com/towards-data-science/local-climate-analytics-health-facility-rain-exposure-in-vietnam-6f7a40442e83) - February 11, 2022 - Medium
 - [Comparison of Geocoding Services Applied to Stroke-Care Facilities in Vietnam with Python](https://towardsdatascience.com/comparison-of-geocoding-services-applied-to-stroke-care-facilities-in-vietnam-with-python-ff0ba753a590) - March 08, 2022 - Medium
+- [Insights from Mobility Data for COVID-19](https://parvathykrishnank.medium.com/insights-from-mobility-data-for-covid-19-5fdf47923357) - April 28, 2022 -  Medium
+- [Accessing and Visualizing Digital Elevation Models with Python](https://towardsdatascience.com/accessing-and-visualizing-digital-elevation-models-with-python-f4fd7f595d46) - March 05, 2022 - Medium
 
 ### Best Practices & Guidelines for Technical Blogs
 
